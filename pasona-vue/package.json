@@ -12,7 +12,7 @@
     "bootstrap-vue": "^2.4.0",
     "core-js": "^3.4.4",
     "feather-icons": "^4.26.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "odometer": "^0.4.8",
     "v-wow": "git+https://github.com/guisoares2011/vue-wow.git",
     "vue": "^2.6.10",
