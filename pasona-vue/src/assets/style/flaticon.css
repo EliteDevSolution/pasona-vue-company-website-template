@@ -1,0 +1,65 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/06/2019 06:23
+  	*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Flaticon.woff2") format("woff2"),
+    url("../fonts/Flaticon.woff") format("woff"),
+    url("../fonts/Flaticon.ttf") format("truetype"),
+    url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.flaticon-cloud:before { content: "\f100"; }
+.flaticon-data:before { content: "\f101"; }
+.flaticon-vps:before { content: "\f102"; }
+.flaticon-shield:before { content: "\f103"; }
+.flaticon-team:before { content: "\f104"; }
+.flaticon-rocket:before { content: "\f105"; }
+.flaticon-diamond:before { content: "\f106"; }
+.flaticon-money:before { content: "\f107"; }
+.flaticon-data-1:before { content: "\f108"; }
+.flaticon-dashboard:before { content: "\f109"; }
+.flaticon-support:before { content: "\f10a"; }
+.flaticon-star:before { content: "\f10b"; }
+.flaticon-star-1:before { content: "\f10c"; }
+.flaticon-star-2:before { content: "\f10d"; }
+.flaticon-plus:before { content: "\f10e"; }
+.flaticon-line:before { content: "\f10f"; }
+.flaticon-monitor:before { content: "\f110"; }
+.flaticon-idea:before { content: "\f111"; }
+.flaticon-layout:before { content: "\f112"; }
+.flaticon-hard-disk:before { content: "\f113"; }
+.flaticon-smartphone:before { content: "\f114"; }
+.flaticon-reload:before { content: "\f115"; }
+.flaticon-laptop:before { content: "\f116"; }
+.flaticon-update-arrows:before { content: "\f117"; }
+.flaticon-handshake:before { content: "\f118"; }
+.flaticon-repair:before { content: "\f119"; }
+.flaticon-delivery-truck:before { content: "\f11a"; }
+.flaticon-left-quote:before { content: "\f11b"; }
+.flaticon-software:before { content: "\f11c"; }
+.flaticon-gear:before { content: "\f11d"; }
+.flaticon-skyline:before { content: "\f11e"; }
+.flaticon-car-insurance:before { content: "\f11f"; }
+.flaticon-factory:before { content: "\f120"; }
+.flaticon-chip:before { content: "\f121"; }
